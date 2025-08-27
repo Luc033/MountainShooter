@@ -1,6 +1,7 @@
 # Contantes das cores utilizadas no jogo
 COLOR_ORANGE = (25, 128, 0)
 COLOR_WHITE = (255, 255, 255)
+COLOR_YELLOW = (255, 255, 0)
 
 # Constantes dos textos de opções do Menu
 MENU_OPTION = ('NEW GAME 1P',
