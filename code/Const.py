@@ -10,6 +10,18 @@ MENU_OPTION = ('NEW GAME 1P',
                'SCORE',
                'EXIT')
 
+# Constantes para atribuir a velocidade de cada imagem do efeito Parallax
+ENTITY_SPEED = {
+
+    'Level1Bg0': 0,
+    'Level1Bg1': 1,
+    'Level1Bg2': 2,
+    'Level1Bg3': 3,
+    'Level1Bg4': 4,
+    'Level1Bg5': 5,
+    'Level1Bg6': 6,
+}
+
 # Constantes da Altura e Largura da tela do jogo
 WIN_WIDTH = 576
 WIN_HEIGHT = 324
